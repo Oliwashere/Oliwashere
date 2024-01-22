@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Oliwashere
+- 👀 I’m interested in becoming an indie developer
+- 🌱 I’m currently learning software developing
+- 💞️ I’m looking to collaborate on small indie proyects
+- 😄 Pronouns: They/them (Im two different people online and irl)
+- ⚡ Fun fact: ...

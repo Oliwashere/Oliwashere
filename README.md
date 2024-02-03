@@ -5,11 +5,4 @@
 - 😄 Pronouns: Ultimate/Lifeform
 - ⚡ Fun fact: I love ponies
 
-.        ／＞-🌱-フ
-　　　　　| 　_　 _
-　 　　　／` ミ＿xノ
-　　 　 /　　　 　 |
-　　　 /　 ヽ　　 ﾉ
-　／￣|　　 |　 |   |
-　| (￣ヽ＿_ヽ__) _)
-　＼二つ
+≽^•⩊•^≼

@@ -2,5 +2,5 @@
 - 👀 I’m interested in becoming an indie developer
 - 🌱 I’m currently learning software developing
 - 💞️ I’m looking to collaborate on small indie proyects in the future
-- 😄 Pronouns: They/them (Im two different people online and irl)
+- 😄 Pronouns: Ultimate/Lifeform
 - ⚡ Fun fact: I love ponies

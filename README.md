@@ -8,4 +8,4 @@
 ≽^•⩊•^≼
 
 
-![](https://github.com/Oliwashere/Oliwashere/blob/main/giphy.gif)
+![](https://github.com/Oliwashere/Oliwashere/blob/main/marisa-marisa-kirisame.gif)

@@ -7,5 +7,7 @@
 
 ≽^•⩊•^≼
 
+<p align="center">
+  <img src="https://github.com/Oliwashere/Oliwashere/blob/main/marisa-marisa-kirisame.gif" alt="animated" />
+</p>
 
-![](https://github.com/Oliwashere/Oliwashere/blob/main/marisa-marisa-kirisame.gif)

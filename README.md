@@ -7,7 +7,6 @@
 
 ≽^•⩊•^≼
 
-<p align="center">
-  <img src="https://github.com/Oliwashere/Oliwashere/blob/main/marisa-marisa-kirisame.gif" alt="animated" />
-</p>
+<img src="https://github.com/Oliwashere/Oliwashere/blob/main/marisa-marisa-kirisame.gif" alt="animated" />
+
 

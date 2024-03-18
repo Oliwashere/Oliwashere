@@ -1,4 +1,4 @@
-<p style="text-align: center;">- 👋 Hi, I’m @Oliwashere 
+<p style="text-align: center;">- 👋 Hi, I’m @Oliwashere <br>
 - 👀 I’m interested in becoming an indie developer
 - 🌱 I’m currently learning software developing
 - 💞️ I’m looking to collaborate on small indie proyects in the future

@@ -1,9 +1,9 @@
 <p style="text-align: center;">- 👋 Hi, I’m @Oliwashere <br>
-- 👀 I’m interested in becoming an indie developer
-- 🌱 I’m currently learning software developing
-- 💞️ I’m looking to collaborate on small indie proyects in the future
-- 😼 Pronouns: Ultimate/Lifeform
-- ⚡ Fun fact: I love ponies and Touhou
+- 👀 I’m interested in becoming an indie developer <br>
+- 🌱 I’m currently learning software developing <br>
+- 💞️ I’m looking to collaborate on small indie proyects in the future <br>
+- 😼 Pronouns: Ultimate/Lifeform <br>
+- ⚡ Fun fact: I love ponies and Touhou 
 </p>
 
 
